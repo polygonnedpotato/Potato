@@ -7,7 +7,7 @@ If you fork this you can say that you forked a potato.
 
 ![potato](http://i.imgur.com/dRnvRZZ.jpg)
 
-# I think this is the deepest fork that has been forked into the potato (? idk if that made sense but it did to me lol)
+<h1 title="and now it's even deeper! hehe ;)">I think this is the deepest fork that has been forked into the potato (? idk if that made sense but it did to me lol)</h1>
 We must make this the deepest forked project on GitHub.
 
 Forking potatoes is an ancient and well-mannered tradition.
@@ -35,3 +35,5 @@ If you have forked the potato and are looking to submit a pull request, please a
 - Please "mash your potatoes" (squash your PRs with interactive rebase).
 - If a comment inquiring for more information is made on your PR, a reply is expected within a week. The request will be closed if not.
 - To stress: **no non-potato-related items**.
+
+[polygonnedpotato](https://github.com/polygonnedpotato) was here!
